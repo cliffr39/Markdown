@@ -10,3 +10,37 @@ This is how to *italicize* text.
 
 And for both you use three ***like this***
 
+This is how to create an email link [email@gitlab.com](mailto:email@gitlab.com)
+
+And to make a list:
+1. First item
+2. Another item
+   1. sub item
+   2. additional
+3. final item
+
+> This is a block quote
+
+How to present code (indent atleast 4 spaces)
+
+    <html>
+      <head>
+        <title>Title of page</title>
+      </head>
+
+The above should display the actual code.
+You can also use back ticks `this is code`
+If you need to show the back tick with the code ``Use `code' line``
+
+To make horizontal line use 3 or more asterisks, dashes/hyphens, or underscores.
+___
+
+
+
+
+
+![This is an image](/images/pihole.png "Pi-Hole logo")
+
+[![Microsoft Azure](/images/azure.png "Azure")*My Azure Portal*](https://portal.azure.com/#home)
+
+
