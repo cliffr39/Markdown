@@ -37,10 +37,15 @@ ___
 
 
 
-
+<details>
+  <summary markdown="span">This is how to add images, click me to expand</summary>
 
 ![This is an image](/images/pihole.png "Pi-Hole logo")
 
 [![Microsoft Azure](/images/azure.png "Azure")*My Azure Portal*](https://portal.azure.com/#home)
+</details>
 
+This is how you add hidden comments
+<!-- These comments are hidden from viewers, and only show in the code. -->
+You use `<!-- comments -->`. There is a hidden line just above using this code.
 
