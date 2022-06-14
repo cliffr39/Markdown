@@ -1,6 +1,8 @@
-# Welcome to Howie's Reviews
+# Welcome to my practice area.
 
-Here we look at all types of tech: from computers and Pis, hypervisors and operating systems, amateur radio, and much more.
+Trying to learn markdown.
+
+<!-- Here we look at all types of tech: from computers and Pis, hypervisors and operating systems, amateur radio, and much more. -->
 
 This is a [link](http://google.com)
 
