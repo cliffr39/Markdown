@@ -49,3 +49,20 @@ This is how you add hidden comments
 <!-- These comments are hidden from viewers, and only show in the code. -->
 You use `<!-- comments -->`. There is a hidden line just above using this code.
 
+You can create tabs on the page.
+<Tabs>
+  <TabItem value="js" label="JavaScript" default>
+
+  ```
+  console.log("Hello World")
+  ```
+
+  </TabItem>
+  <TabItem value="python" label="Python">
+
+  ```
+  more code
+  ```
+
+  </TabItem>
+</Tabs>
