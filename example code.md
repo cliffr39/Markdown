@@ -55,12 +55,6 @@ return (a)
 10+ Years Industry Veteran We've been around for a long time and we're here to stay. Rest assured that we know how to provide a stable, high-performance web hosting service that isn't going to close overnight. We believe that hosting should be accessible to all, and that's precisely why we offer free hosting for everyone.
 </details>
 
---<h1>a bunch of text in here</h1>
---<h2>a bunch of text in here</h2>
---<h3>a bunch of text in here</h3>
---<h4>a bunch of text in here</h4>
---<h5>a bunch of text in here</h5>
-
 
 # Callouts
 
